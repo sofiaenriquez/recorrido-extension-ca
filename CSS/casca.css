@@ -1,0 +1,222 @@
+body{ 
+  
+  width: 600px ;
+ margin-left: 0px;
+ margin-right: 0px ;
+ margin-top: 0px;
+  background:url(../img/crossword.png);
+ text-align:center; 
+ } 
+ 
+ h1{ 
+  
+ color: #424242;
+ line-height: 150%;
+ text-align:center;  
+ margin-left: 300px;
+ margin-right: 300px ;  
+ margin-top: 0px;
+ font-size: 50pt;  
+ font-weight: 200; 
+ font-family: 'Roboto', sans-serif;
+letter-spacing: 10px;
+
+ }  
+ 
+ h2{ 
+ font-family: Helvetica;
+  color: #585858 ;
+ font-size: 20pt;
+ line-height: 150%; 
+ text-align:center; 
+  
+ 
+ } 
+ 
+ h3{
+ color: #555 ;
+ font-size: 12pt;
+font-family: Helvetica; 
+width: 600px; 
+ margin-left: 400px;
+  margin-right: 400px ; 
+  margin-top: 0px; 
+ 
+ }  
+ 
+ p{
+  color: #424242;
+ font-size: 14pt;  
+  
+ font-family: 'Roboto', sans-serif; 
+  line-height: 150%;  
+ width: 600px; 
+ margin-left: 80px;
+  
+ } 
+ 
+ .p1{ 
+ color: #424242;
+ font-size: 14pt;  
+ 
+ font-family: 'Roboto', sans-serif; 
+ width: 600px; 
+ margin-left: 400px;
+ margin-right: 400px 
+ 
+ } 
+ 
+ .p2{  
+ 
+ color:#000000;
+ font-size: 20pt;  
+  
+ font-family: 'Roboto', sans-serif; 
+ width: 600px; 
+  margin-left: 400px;
+  margin-right: 400px 
+ }
+ 
+ .p3{ color:#000000;
+ font-size: 16pt;  
+ 
+ font-family: 'Roboto', sans-serif; 
+ width: 600px; 
+   margin-left: 400px;
+   margin-right: 400px  
+ 
+ } 
+ 
+ .p4{ color: #424242;
+ font-size: 14pt;  
+ 
+ font-family: 'Roboto', sans-serif; 
+ width: 700px; 
+ margin-left: 70px;
+  
+ 
+ } 
+ 
+ .p5{ color:#000000;
+ font-size: 20pt;  
+  
+ font-family: 'Roboto', sans-serif; 
+ width: 700px; 
+   margin-left: 70px;
+   
+ 
+ }
+ 
+ .polig{ 
+ width:1350px; 
+ height:800px; 
+ background:#000000; 
+ color:#EEEEEE;  
+ font-size: 80pt;  
+ font-weight: 300;
+ font-family: 'Roboto', sans-serif;
+ letter-spacing: 10px;
+ 
+ } 
+ 
+ } 
+ 
+ .img1{
+   max-width: 600px;
+   margin: 0 auto;
+ }
+ img{
+    max-width: 600px;
+   margin: 0 auto;
+ } 
+ 
+ .img2{  
+ 
+ margin-left: 450px;
+   margin-right: 0px ; 
+ 
+    margin-top: -100px; 
+    border:0px; 
+    width: 1200px; 
+    height:300px; 
+ 
+   
+   
+ } 
+ 
+ .img3{   
+ 
+   margin-left: -300px;
+   margin-right: 0px ; 
+    margin-top: -100px; 
+    border:0px; 
+    width: 1200px; 
+    height:300px; 
+ 
+    
+ } 
+ 
+ .img4 {  
+   max-width: 600px;
+   margin: 0 auto;  
+   position:absolute; 
+   margin-top: 600px;  
+   
+    
+   width:200px; 
+   height:200px; 
+   visibility:visible z-index:1;
+   
+ 
+ } 
+ 
+ .img5{  
+   max-width: 600px;
+   margin: 0 auto;  
+   position:absolute; 
+   margin-top: 600px;  
+   
+    
+   width:200px; 
+   height:200px; 
+   visibility:visible z-index:1;
+   
+ 
+ } 
+ 
+ .img6{  
+ 
+    
+   margin-left: -710px;
+   margin-right: 0px ; 
+    margin-top: -100px; 
+    border:0px; 
+   width: 1200px; 
+   height:300px; 
+   
+
+ } 
+ 
+ h4{ color:#A4A4A4;
+   line-height: 150%;
+   text-align:center;  
+   margin-left: 300px;
+   margin-right: 300px ; 
+   font-size: 50pt;  
+ font-weight: 200; 
+ font-family: 'Roboto', sans-serif;
+ letter-spacing: 40px;
+ 
+ }  
+ 
+ .polig1{  width:1350px; 
+ height:600px; 
+ background:#000000; 
+ color:#EEEEEE;  
+ font-size: 80pt;  
+ font-weight: 300;
+ font-family: 'Roboto', sans-serif;
+ letter-spacing: 10px;
+ margin-top: -0px;
+ 
+ }
